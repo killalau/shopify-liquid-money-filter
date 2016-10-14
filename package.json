@@ -1,0 +1,8 @@
+{
+  "name": "shopify-liquid-money-filter",
+  "version": "0.1.0",
+  "description": "Money filter for Liquid template engine (shopify-liquid)",
+  "main": "index.js",
+  "author": "killalau",
+  "license": "MIT"
+}
